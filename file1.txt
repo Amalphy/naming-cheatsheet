@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello w
-=======
-new3
->>>>>>> branch2
+again
